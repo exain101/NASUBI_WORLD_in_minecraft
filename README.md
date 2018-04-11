@@ -1,1 +1,1 @@
-# NASUBI_WORLD_in_minecraft
+# 那須のマイクラリポジトリ
